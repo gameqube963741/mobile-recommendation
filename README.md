@@ -17,3 +17,15 @@
         雲端架構：Google GCP
         Spark自動化：自動執行每日爬取的資料處理
         LineBOT:客戶端操作，並呈現結果
+
+# code 
+1.  labels.py
+	斷字斷詞
+2. count.py
+	找出最常出現的標籤
+3. matrix.py
+	標籤轉矩陣並放入情緒分析的分數
+4. kmeans_cell.py
+	kmeans建模
+5. kmeans_model.py
+	分群後推薦手機
