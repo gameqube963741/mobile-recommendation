@@ -1,0 +1,41 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+
+[packages]
+absl-py = "==0.9.0"
+alabaster = "==0.7.12"
+amqp = "==2.6.0"
+applaunchservices = "==0.2.1"
+appnope = "==0.1.0"
+appscript = "==1.0.1"
+argh = "==0.26.2"
+jupyter = "*"
+notebook = "*"
+ipykernel = "*"
+requests = "*"
+qrcode = "*"
+sklearn = "*"
+pillow = "*"
+pandas-datareader = "*"
+matplotlib = "*"
+seaborn = "*"
+plotly = "*"
+pandas = "*"
+scipy = "*"
+pydotplus = "*"
+ipython = "*"
+mglearn = "*"
+graphviz = "*"
+scikit-learn = "*"
+six = "*"
+ckip = "*"
+xlrd = "*"
+ipyparallel = "*"
+
+[requires]
+python_version = "3.7"
