@@ -3,6 +3,7 @@ import pandas as pd
 from snownlp import sentiment, SnowNLP
 import os
 
+
 dict = {
     '相機': ['拍照', '相機', '鏡頭', '照片', '照相', '畫素', '鏡頭', '影片', '自拍', '主相機', '拍攝', '夜景', '雙鏡頭', '手震', '錄影'],
     '續航力': ['電池', '充電', '續航', '續航力', '省電', '電力'],
