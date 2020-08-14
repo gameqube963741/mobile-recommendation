@@ -21,6 +21,5 @@ for i in fileName:
             df2 = pd.DataFrame([[n, cell]], columns=['Id', 'Name'])
             df = df.append(df2, ignore_index=True)
 
-
 #print(df)
 df.to_csv('C:/Users/Big data/PycharmProjects/CELL/cell_Index/cell_Index.csv', encoding='utf_8_sig')
